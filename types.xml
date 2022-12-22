@@ -1,4 +1,4 @@
-    [<type name="Collectable_GPU">
+    <type name="Collectable_GPU">
         <nominal>25</nominal>
         <lifetime>1440</lifetime>
         <restock>0</restock>
